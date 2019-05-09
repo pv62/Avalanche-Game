@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/1.Start.unity
+    guid: b0cccde6bbf0d034dab684d9478caa72
+  - enabled: 1
+    path: Assets/Scenes/1a.Instructions_1.unity
+    guid: 4ffd5add4855dfe4ca365410a1831d3c
+  - enabled: 1
+    path: Assets/Scenes/1b.Instructions_2.unity
+    guid: d8112fed81332264f80dc3e670e2a802
+  - enabled: 1
+    path: Assets/Scenes/2.Options.unity
+    guid: c6eac82f48e8c1f41998fdf89a6676c5
+  - enabled: 1
+    path: Assets/Scenes/2a.Difficulty.unity
+    guid: 4e7f33205bf6302478e3cc76828402c1
+  - enabled: 1
+    path: Assets/Scenes/Game-Single.unity
+    guid: 9bafbcc5d95b847428f12a58a6d9185f
+  - enabled: 1
+    path: Assets/Scenes/Game-Two.unity
+    guid: 9f0ed617bfe4c9743a5b1a732c4e16c3
+  - enabled: 1
+    path: Assets/Scenes/Player 1 Win.unity
+    guid: 033d9effd689c6e4892644928f7f65f0
+  - enabled: 1
+    path: Assets/Scenes/Player 2 Win.unity
+    guid: 757495e95534f1e4fa7e2b1a66f6bdf4
+  m_configObjects: {}
